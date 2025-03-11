@@ -3,4 +3,4 @@ This repository contains materials for Online Course Enrollment recommender syst
 
 ## Contents
 1. Exploratory data analysis notebook.
-2. 
+2. Extracting BoW Features and Building a Cosine Similarity Matrix
