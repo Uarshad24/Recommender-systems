@@ -8,3 +8,4 @@ The dataset used in this project is sourced from the IBM Machine Learning Capsto
 1. Exploratory data analysis notebook.
 2. Extracting BoW Features and Building a Cosine Similarity Matrix
 3. Content-based Course Recommender System using Course Similarities
+4. Content-based Course Recommender System using Course Genres and Users Profile
